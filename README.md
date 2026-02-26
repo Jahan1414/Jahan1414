@@ -6,7 +6,10 @@ I am a passionate web developer focused on creating interactive and user-friendl
 
 - 🛠️ **Tech Stack:** JavaScript (ES6+), React, HTML5, CSS3 (SASS/Tailwind)
 - 📚 **Currently learning:** TypeScript and Next.js
-- ⚡ **Fun fact:** I enjoy [твое хобби, например: solving logic puzzles / photography]
+- ⚡ **Fun fact:** I enjoy Learning new technologies
+- - ⚡ **Fun fact:** Hiking 
+- - ⚡ **Fun fact:** Football
+
 
 ---
 
