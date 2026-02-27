@@ -31,7 +31,7 @@ I am a passionate web developer focused on creating interactive and user-friendl
 ### 📫 How to reach me:
 - **LinkedIn:** (https://www.linkedin.com/in/zhakhonsha-ikramov-51166410b)
 - **Site:** (https://jahan-web-psi.vercel.app/)
-- **Telegram:** (https://t.me/@jahan.ikram)
+- **Telegram:** (t.me/@jahan.ikram)
 - **Email:** jahan.ikramov@gmail.com
 
 ---
