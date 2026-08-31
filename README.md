@@ -14,10 +14,10 @@ I am a passionate web developer focused on creating interactive and user-friendl
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My Projects
 
-#### Tililim - An interactive web application designed to help users learn English through modern gamified modules and responsive UI.
-## 🛠 Tech Skills
+### Tililim - An interactive web application designed to help users learn English through modern gamified modules and responsive UI.
+#### 🛠 Tech Skills
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** React, Next.js, Vite
 - **Tools:** Git, GitHub, Vercel
