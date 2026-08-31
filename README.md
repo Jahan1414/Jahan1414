@@ -16,10 +16,12 @@ I am a passionate web developer focused on creating interactive and user-friendl
 
 ### 🚀 Featured Projects
 
-#### [Название проекта 1]
-- **Stack:** React, Firebase, Styled Components
-- **Key feature:** Real-time data synchronization and responsive UI.
-- [🔗 Live Demo](ссылка) | [📂 Source Code](ссылка)
+#### Tililim - An interactive web application designed to help users learn English through modern gamified modules and responsive UI.
+## 🛠 Tech Skills
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, Vite
+- **Tools:** Git, GitHub, Vercel
+- [🔗 Live Demo](https://tililim-app.vercel.app/)
 
 #### [Название проекта 2]
 - **Stack:** JavaScript, API, CSS Grid
