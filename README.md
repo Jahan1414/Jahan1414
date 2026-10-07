@@ -23,10 +23,10 @@ I am a passionate web developer focused on creating interactive and user-friendl
 - **Tools:** Git, GitHub, Vercel
 - [🔗 Live Demo](https://tililim-app.vercel.app/)
 
-#### Nurli Bolalar - 
-- **Stack:** JavaScript, TypeScript, HTML5, CSS3
-- - **Frameworks & Libraries:** React, Tailwind CSS, Vite
-- **Key feature:** Fully responsive dashboard with dark mode support.
+#### Nurli Bolalar -  A dedicated web platform created to support and guide parents of children with autism.
+- **Languages:** JavaScript, TypeScript, HTML5
+- **Frameworks & Libraries:** React, Tailwind CSS, Vite
+- **Tools:** Git, GitHub, Vercel
 - [🔗 Live Demo](https://my-autizm-help-site.vercel.app/)
 
 ---
