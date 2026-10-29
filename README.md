@@ -27,7 +27,7 @@ I am a passionate web developer focused on creating interactive and user-friendl
 - **Languages:** JavaScript, TypeScript, HTML5
 - **Frameworks & Libraries:** React, Tailwind CSS, Vite
 - **Tools:** Git, GitHub, Vercel
-- [🔗 Live Demo](https://my-autizm-help-site.vercel.app/)
+- [🔗 Live Demo](https://nurlibolalar.uz/)
 
 ---
 
